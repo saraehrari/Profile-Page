@@ -32,6 +32,7 @@ function App() {
           <span>Bootstrap</span>
           <span>JavaScript</span>
           <span>React</span>
+          <span>WordPress</span>
         </div>
       </Skills>
 
