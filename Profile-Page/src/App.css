@@ -1,0 +1,49 @@
+body{
+  background:#f5f3ff;
+  font-family:Arial, sans-serif;
+}
+
+.profile-card{
+  width: 600px;
+  height: 800px;
+  margin:40px auto;
+  background:#fff;
+  border-radius:24px;
+  padding:30px 20px;
+  text-align:center;
+  box-shadow:0 10px 30px rgba(120,90,255,.15);
+}
+
+.avatar{
+  width:130px;
+  height:130px;
+  border-radius:50%;
+  object-fit:cover;
+  border:5px solid #a78bfa;
+  margin-top:-20px;
+}
+
+h2{
+  color:#1e2a5a;
+  margin:16px 0 6px;
+}
+
+.role{
+  color:#7c5cff;
+  font-weight:600;
+}
+
+.bio{
+  color:#666;
+  line-height:1.6;
+  
+  
+}
+
+.divider{
+  width:400px;
+  height:3px;
+  background:#d6ccff;
+  border-radius:10px;
+  margin:18px auto;
+}
