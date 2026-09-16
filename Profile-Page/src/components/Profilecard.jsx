@@ -1,7 +1,5 @@
+
 export default function Profilecard({ children }) {
-  return (
-    <div className="profile-card">
-      {children}
-    </div>
-  );
+  return  <section className="profile-card">{children}</section>;
 }
+
